@@ -1,0 +1,131 @@
+*{
+    
+    text-decoration: none;
+    
+}
+
+body{
+    font-family: serif;
+    background-repeat: round;
+    background-size: 100%;
+    text-align: center;
+    background-image: url(https://blog.corp-site.envato.com/cdn-cgi/image/width=1200,quality=85,format=auto/uploads/2020/06/SOC101_Portfolio_Guide.png);
+    background-repeat: no-repeat;
+
+}
+
+image{
+    box-sizing: border-box;
+margin: 0;
+padding: 0;
+clip-path: circle(https://blog.corp-site.envato.com/cdn-cgi/image/width=1200,quality=85,format=auto/uploads/2020/06/SOC101_Portfolio_Guide.png);
+}
+
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    color: rgb(233, 242, 243);
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+
+}
+
+a {
+
+color: rgb(234, 243, 245);
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-align: left;
+}
+/* form */
+
+input, textarea, button{
+    height: 40%;
+    width: 40%;
+    margin: 5px;
+    margin-bottom: 20px;
+    align-self: center;
+    align-self: baseline;
+    border-radius: 10px;
+    flex-direction: column;
+    
+}
+    
+div .gmaps {
+    align-self: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    size:relative; top: 500px;
+    width: 60%;
+    
+}
+
+.name .number{
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    gap: 30px;
+    font-size: 20px;
+}
+
+h1{
+    color: whitesmoke
+    font-family: serif;
+    text-align: center;
+
+}
+
+.img{
+    clip-path: circle();
+    text-align: left;
+    position: relative; right:680px;
+    height: 250px;
+}
+
+.par{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    padding:0%;
+    size: relative; bottom: 200px;
+}
+
+.btn{
+    font-family: sans-serif;
+    width: 140px;
+    padding:0px;
+    position: relative; right: 1020px; top: 50px
+    
+}
+
+.section1{
+    width: 50%;
+    font-family: sans-serif;
+    color: black;
+    font-size: 20px;
+    position: relative; bottom:150px; right: 299px;
+
+}
+
+.head{ color: whitesmoke;
+    box-sizing: border-box;
+    font-size: 20px;
+    padding:20px
+
+}
+
+.section2{
+    width: 50%;
+    font-family: sans-serif;
+    color: rgb(84, 216, 240);
+    font-size: 20px;
+    position: relative; top:200px
+
+
+}
